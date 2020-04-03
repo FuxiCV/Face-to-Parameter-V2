@@ -1,6 +1,6 @@
 # Face-to-Parameter Translation for Game Character Auto-Creation
 
-ICCV 2019,  [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)
+AAAI 2020,  [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)
 
 by Tianyang Shi, Zhengxia Zou, Yi Yuan*, Changjie Fan
 
